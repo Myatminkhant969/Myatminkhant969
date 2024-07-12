@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Myatminkhant969
+- 👋 Hi, I’m @MyatMinKhant
 - 👀 I’m interested in watching football matches and coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & ReactJS
 - 💞️ I’m looking to collaborate on apps and webs...
-- 📫 How to reach me ...
+- 💞️ I love developing the dynamic webs design for client sides...
+- 📫 How to reach me ... The 1st rule: You must interest in Coding & be a fan of Arsenal
 
 <!---
 Myatminkhant969/Myatminkhant969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
